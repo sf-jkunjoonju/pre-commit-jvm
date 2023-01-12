@@ -4,6 +4,7 @@
     "central"
   ],
   "dependencies": [
-    "net.sourceforge.pmd:pmd-java:6.44.0"
+    "net.sourceforge.pmd:pmd-java:6.44.0",
+    "net.sourceforge.pmd:pmd-apex:6.53.0"
   ]
 }
